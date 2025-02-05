@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "321135360177",
+    "project_id": "tradex-ec203",
+    "storage_bucket": "tradex-ec203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321135360177:android:b634ef9f99686cd8064a90",
+        "android_client_info": {
+          "package_name": "com.example.reddit_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321135360177-9vts3a4o8g5k9j69b7b9ta1maa7s12ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reddit_tutorial",
+            "certificate_hash": "d7b55b77360f4c73c3db491ba5481f2f098e537c"
+          }
+        },
+        {
+          "client_id": "321135360177-bftfoetn5hmd7jrv5coc7ucsa7uqcl1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEoehEqsJ_8jKWLmw49SqN67zfVDJOY9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321135360177-bftfoetn5hmd7jrv5coc7ucsa7uqcl1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321135360177-qdp29k1du0b44jlkg3spietajo2o15sh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
